@@ -6,7 +6,7 @@ naive approach and Optimal (Binary Search)
  */
 
 
-public class GFG_First_Occurence_BinarySearch {
+public class GFG_15_First_Occurence_BinarySearch {
 //    Naive appraoch -- Linear Search...
 //    public static int firstOccurence(int []arr, int k){
 //        for(int i=0; i< arr.length;i++){
